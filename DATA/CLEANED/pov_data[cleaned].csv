@@ -1,0 +1,305 @@
+NTA_CODE,NTA_NAME,Households_Below_Poverty,Poverty_percent
+50101,Mott Haven-Port Morris,"23,752",43.7
+50102,Melrose,"17,284",40.7
+50201,Hunts Point,"4,696",34.3
+50202,Longwood,"12,751",32.0
+50301,Morrisania,"12,615",35.7
+50302,Claremont Village-Claremont (East),"10,386",43.2
+50303,Crotona Park East,"8,519",29.4
+50401,Concourse-Concourse Village,"21,730",31.9
+50402,Highbridge,"11,128",33.9
+50403,Mount Eden-Claremont (West),"16,703",31.8
+50501,University Heights (South)-Morris Heights,"18,886",34.4
+50502,Mount Hope,"14,696",30.2
+50503,Fordham Heights,"11,171",33.2
+50601,West Farms,"8,295",44.8
+50602,Tremont,"11,476",36.3
+50603,Belmont,"12,919",39.6
+50701,University Heights (North)-Fordham,"11,856",25.8
+50702,Bedford Park,"14,100",24.8
+50703,Norwood,"11,923",29.3
+50801,Kingsbridge Heights-Van Cortlandt Village,"8,852",25.1
+50802,Kingsbridge-Marble Hill,"6,977",26.6
+50803,Riverdale-Spuyten Duyvil,"2,923",6.8
+50901,Soundview-Bruckner-Bronx River,"20,516",30.1
+50902,Soundview-Clason Point,"8,756",24.4
+50903,Castle Hill-Unionport,"8,413",21.6
+50904,Parkchester,"6,446",21.0
+51001,Westchester Square,"3,479",22.0
+51002,Throgs Neck-Schuylerville,"6,854",14.4
+51003,Pelham Bay-Country Club-City Island,"2,732",9.8
+51004,Co-op City,"3,436",9.5
+51101,Pelham Parkway-Van Nest,"5,097",16.7
+51102,Morris Park,"2,569",11.5
+51103,Pelham Gardens,"3,597",12.6
+51104,Allerton,"8,871",24.6
+51201,Williamsbridge-Olinville,"12,984",21.0
+51202,Eastchester-Edenwald-Baychester,"8,435",15.1
+51203,Wakefield-Woodlawn,"7,468",15.2
+470101,Greenpoint,"3,480",9.3
+470102,Williamsburg,"9,962",15.8
+470103,South Williamsburg,"23,599",50.3
+470104,East Williamsburg,"13,537",25.4
+470201,Brooklyn Heights,911,4.0
+470202,Downtown Brooklyn-DUMBO-Boerum Hill,"6,059",16.0
+470203,Fort Greene,"6,238",18.5
+470204,Clinton Hill,"2,430",9.4
+470301,Bedford-Stuyvesant (West),"23,143",26.0
+470302,Bedford-Stuyvesant (East),"20,405",22.2
+470401,Bushwick (West),"11,345",20.7
+470402,Bushwick (East),"15,284",24.3
+470501,Cypress Hills,"8,215",19.3
+470502,East New York (North),"11,343",25.5
+470503,East New York-New Lots,"13,106",25.3
+470504,Spring Creek-Starrett City,"3,990",25.2
+470505,East New York-City Line,"12,495",26.0
+470601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,"9,062",14.5
+470602,Park Slope,"3,030",5.1
+470701,Windsor Terrace-South Slope,"2,126",7.9
+470702,Sunset Park (West),"8,292",16.4
+470703,Sunset Park (Central),"10,594",23.2
+470801,Prospect Heights,"1,755",7.3
+470802,Crown Heights (North),"17,694",20.5
+470901,Crown Heights (South),"8,940",17.4
+470902,Prospect Lefferts Gardens-Wingate,"7,583",16.1
+471001,Bay Ridge,"9,732",11.4
+471002,Dyker Heights,"8,021",18.5
+471101,Bensonhurst,"17,145",16.8
+471102,Bath Beach,"5,133",15.3
+471103,Gravesend (West),"11,477",19.1
+471201,Sunset Park (East)-Borough Park (West),"8,211",27.4
+471202,Borough Park,"28,967",34.5
+471203,Kensington,"5,666",14.5
+471204,Mapleton-Midwood (West),"7,523",19.7
+471301,Gravesend (South),"5,934",20.3
+471302,Coney Island-Sea Gate,"13,913",27.4
+471303,Brighton Beach,"7,145",23.0
+471401,Flatbush,"9,457",13.7
+471402,Flatbush (West)-Ditmas Park-Parkville,"6,474",15.5
+471403,Midwood,"8,324",15.5
+471501,Gravesend (East)-Homecrest,"8,482",15.9
+471502,Madison,"6,617",15.5
+471503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,"9,149",13.6
+471601,Ocean Hill,"10,912",27.3
+471602,Brownsville,"18,139",37.2
+471701,East Flatbush-Erasmus,"6,779",15.2
+471702,East Flatbush-Farragut,"3,614",10.1
+471703,East Flatbush-Rugby,"4,939",12.3
+471704,East Flatbush-Remsen Village,"6,914",18.7
+471801,Flatlands,"7,197",10.1
+471802,Marine Park-Mill Basin-Bergen Beach,"2,711",5.8
+471803,Canarsie,"11,620",13.0
+610101,Financial District-Battery Park City,"2,538",5.4
+610102,Tribeca-Civic Center,838,3.9
+610201,SoHo-Little Italy-Hudson Square,"2,551",11.1
+610202,Greenwich Village,"2,254",7.9
+610203,West Village,"2,157",6.9
+610301,Chinatown-Two Bridges,"13,389",32.4
+610302,Lower East Side,"11,082",24.9
+610303,East Village,"15,864",24.3
+610401,Chelsea-Hudson Yards,"7,121",11.5
+610402,Hell's Kitchen,"7,718",14.0
+610501,Midtown South-Flatiron-Union Square,"2,611",10.1
+610502,Midtown-Times Square,"2,187",10.4
+610601,Stuyvesant Town-Peter Cooper Village,"2,327",10.4
+610602,Gramercy,"2,654",10.8
+610603,Murray Hill-Kips Bay,"4,438",7.9
+610604,East Midtown-Turtle Bay,"2,655",6.5
+610701,Upper West Side-Lincoln Square,"6,293",9.9
+610702,Upper West Side (Central),"7,969",7.8
+610703,Upper West Side-Manhattan Valley,"8,953",17.0
+610801,Upper East Side-Lenox Hill-Roosevelt Island,"6,202",7.7
+610802,Upper East Side-Carnegie Hill,"2,662",4.9
+610803,Upper East Side-Yorkville,"5,598",7.0
+610901,Morningside Heights,"6,206",22.3
+610902,Manhattanville-West Harlem,"6,349",26.7
+610903,Hamilton Heights-Sugar Hill,"12,804",24.0
+611001,Harlem (South),"9,510",18.8
+611002,Harlem (North),"20,726",25.1
+611101,East Harlem (South),"16,639",29.0
+611102,East Harlem (North),"20,588",32.3
+611201,Washington Heights (South),"16,158",19.9
+611202,Washington Heights (North),"12,041",14.8
+611203,Inwood,"6,553",15.3
+810101,Astoria (North)-Ditmars-Steinway,"4,552",9.4
+810102,Old Astoria-Hallets Point,"2,586",19.5
+810103,Astoria (Central),"5,069",10.7
+810104,Astoria (East)-Woodside (North),"3,616",9.8
+810105,Queensbridge-Ravenswood-Dutch Kills,"4,289",16.5
+810201,Long Island City-Hunters Point,"1,448",6.0
+810202,Sunnyside,"5,119",10.3
+810203,Woodside,"3,523",7.3
+810301,Jackson Heights,"12,242",13.2
+810302,East Elmhurst,"3,295",13.6
+810303,North Corona,"6,499",15.3
+810401,Elmhurst,"10,446",10.1
+810402,Corona,"13,920",19.2
+810501,Maspeth,"4,678",10.7
+810502,Ridgewood,"9,013",12.3
+810503,Glendale,"2,872",7.9
+810504,Middle Village,"2,328",6.4
+810601,Rego Park,"3,504",11.6
+810602,Forest Hills,"6,502",7.1
+810701,College Point,"3,270",10.6
+810702,Whitestone-Beechhurst,"2,426",7.9
+810703,Bay Terrace-Clearview,"1,509",6.4
+810704,Murray Hill-Broadway Flushing,"8,177",14.8
+810705,East Flushing,"5,118",16.7
+810706,Queensboro Hill,"2,965",14.3
+810707,Flushing-Willets Point,"12,220",20.9
+810801,Kew Gardens Hills,"4,096",11.9
+810802,Pomonok-Electchester-Hillcrest,"4,733",13.8
+810803,Fresh Meadows-Utopia,"2,069",9.4
+810804,Jamaica Estates-Holliswood,"2,157",8.9
+810805,Jamaica Hills-Briarwood,"5,809",14.5
+810901,Kew Gardens,"2,044",8.5
+810902,Richmond Hill,"3,750",10.6
+810903,South Richmond Hill,"2,976",12.7
+810904,Ozone Park (North),"3,873",14.7
+810905,Woodhaven,"4,136",9.9
+811001,South Ozone Park,"8,405",9.7
+811002,Ozone Park,"3,060",11.8
+811003,Howard Beach-Lindenwood,"2,357",7.7
+811101,Auburndale,"2,988",8.5
+811102,Bayside,"3,246",9.0
+811103,Douglaston-Little Neck,"1,934",7.3
+811104,Oakland Gardens-Hollis Hills,"2,110",7.7
+811201,Jamaica,"9,201",15.7
+811202,South Jamaica,"6,092",13.4
+811203,Baisley Park,"5,054",11.4
+811204,Springfield Gardens (North)-Rochdale Village,"2,875",9.1
+811205,St. Albans,"4,721",8.6
+811206,Hollis,"2,045",9.0
+811301,Glen Oaks-Floral Park-New Hyde Park,"1,852",7.6
+811302,Bellerose,"2,048",7.3
+811303,Queens Village,"4,508",7.7
+811304,Cambria Heights,"1,136",5.3
+811305,Laurelton,"1,564",5.4
+811306,Springfield Gardens (South)-Brookville,"2,049",8.9
+811307,Rosedale,"2,381",8.8
+811401,Far Rockaway-Bayswater,"11,529",18.3
+811402,Rockaway Beach-Arverne-Edgemere,"9,536",22.1
+811403,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,"2,557",10.1
+850101,St. George-New Brighton,"3,255",18.5
+850102,Tompkinsville-Stapleton-Clifton-Fox Hills,"3,994",25.5
+850103,Rosebank-Shore Acres-Park Hill,"3,462",14.4
+850104,West New Brighton-Silver Lake-Grymes Hill,"3,363",9.9
+850105,Westerleigh-Castleton Corners,"1,623",5.1
+850106,Port Richmond,"4,298",22.0
+850107,Mariner's Harbor-Arlington-Graniteville,"5,662",16.8
+850201,Grasmere-Arrochar-South Beach-Dongan Hills,"4,162",11.3
+850202,New Dorp-Midland Beach,"2,442",8.5
+850203,Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights,"3,452",11.0
+850204,New Springville-Willowbrook-Bulls Head-Travis,"4,372",10.0
+850301,Oakwood-Richmondtown,"1,509",7.1
+850302,Great Kills-Eltingville,"3,574",6.4
+850303,Arden Heights-Rossville,"1,372",4.3
+850304,Annadale-Huguenot-Prince's Bay-Woodrow,"2,633",6.0
+850305,Tottenville-Charleston,"1,063",6.3
+501,Melrose-Mott Haven-Port Morris (CD 1),"41,036",42.4
+502,Longwood-Hunts Point (CD 2),"17,447",32.6
+503,Morrisania-Crotona Park East (CD 3),"31,520",35.7
+504,Highbridge-Concourse (CD 4),"49,561",32.3
+505,Morris Heights-Mount Hope (CD 5),"44,753",32.6
+506,Tremont-Belmont-West Farms (CD 6),"32,690",39.5
+507,Fordham-Bedford Park-Norwood (CD 7),"37,879",26.4
+508,Riverdale-Kingsbridge-Marble Hill (CD 8),"18,752",18.0
+509,Soundview-Parkchester (CD 9),"44,131",25.4
+510,Co-op City-Throgs Neck (CD 10),"16,501",13.0
+511,Pelham Parkway-Morris Park (CD 11),"20,134",17.1
+512,Wakefield-Williamsbridge-Eastchester (CD 12),"28,887",17.3
+4701,Williamsburg-Greenpoint (CD 1),"50,578",25.2
+4702,Downtown Brooklyn-Fort Greene (CD 2),"15,638",13.0
+4703,Bedford-Stuyvesant (CD 3),"43,548",24.1
+4704,Bushwick (CD 4),"26,629",22.6
+4705,East New York-Cypress Hills (CD 5),"49,149",24.2
+4706,Park Slope-Carroll Gardens (CD 6),"12,092",9.9
+4707,Sunset Park-Windsor Terrace (CD 7),"21,012",17.1
+4708,Crown Heights (North) (CD 8),"19,449",17.6
+4709,Crown Heights (South) (CD 9),"16,523",16.8
+4710,Bay Ridge-Dyker Heights (CD 10),"17,753",13.8
+4711,Bensonhurst-Bath Beach (CD 11),"33,755",17.3
+4712,Borough Park-Kensington (CD 12),"50,367",26.3
+4713,Coney Island-Brighton Beach (CD 13),"26,992",24.3
+4714,Flatbush-Midwood (CD 14),"24,255",14.7
+4715,Sheepshead Bay-Gravesend (East) (CD 15),"24,248",14.8
+4716,Ocean Hill-Brownsville (CD 16),"29,051",32.7
+4717,East Flatbush (CD 17),"22,246",14.1
+4718,Canarsie-Flatlands (CD 18),"21,528",10.4
+6101,Financial District-Tribeca (CD 1),"3,376",4.9
+6102,Greenwich Village-SoHo (CD 2),"6,962",8.4
+6103,Lower East Side-Chinatown (CD 3),"40,335",26.7
+6104,Chelsea-Hell's Kitchen (CD 4),"14,839",12.7
+6105,Midtown-Flatiron-Union Square (CD 5),"4,798",10.3
+6106,East Midtown-Murray Hill (CD 6),"12,074",8.4
+6107,Upper West Side (CD 7),"23,215",10.6
+6108,Upper East Side-Roosevelt Island (CD 8),"14,462",6.7
+6109,Morningside Heights-Hamilton Heights (CD 9),"25,359",24.1
+6110,Harlem (CD 10),"30,236",22.7
+6111,East Harlem (CD 11),"37,227",30.7
+6112,Washington Heights-Inwood (CD 12),"34,752",16.9
+8101,Astoria-Queensbridge (CD 1),"20,112",11.7
+8102,Long Island City-Sunnyside-Woodside (CD 2),"10,090",8.3
+8103,Jackson Heights-East Elmhurst (CD 3),"22,036",13.8
+8104,Elmhurst-Corona (CD 4),"24,366",13.9
+8105,Ridgewood-Maspeth-Middle Village (CD 5),"18,891",9.9
+8106,Forest Hills-Rego Park (CD 6),"10,006",8.2
+8107,Flushing-Murray Hill-Whitestone (CD 7),"35,685",14.3
+8108,Fresh Meadows-Hillcrest-Briarwood (CD 8),"18,864",12.2
+8109,Kew Gardens-Richmond Hill-Woodhaven (CD 9),"16,779",11.1
+8110,South Ozone Park-Howard Beach (CD 10),"13,822",9.7
+8111,Auburndale-Bayside-Douglaston (CD 11),"10,278",8.2
+8112,Jamaica-St. Albans-Hollis (CD 12),"29,988",11.6
+8113,Queens Village-Bellerose-Rosedale (CD 13),"15,538",7.4
+8114,The Rockaways (CD 14),"23,622",18.0
+8501,North Shore (CD 1),"25,657",14.5
+8502,Mid-Island (CD 2),"14,428",10.2
+8503,South Shore (CD 3),"10,151",6.0
+101,Kingsbridge - Riverdale,"14,713",16.2
+102,Northeast Bronx,"30,694",14.8
+103,Fordham - Bronx Pk,"73,579",27.7
+104,Pelham - Throgs Neck,"61,654",20.3
+105,Crotona - Tremont,"73,064",33.6
+106,High Bridge - Morrisania,"78,111",35.8
+107,Hunts Point - Mott Haven,"51,580",36.3
+201,Greenpoint,"18,006",17.1
+202,Downtown - Heights - Slope,"36,762",13.7
+203,Bedford Stuyvesant - Crown Heights,"75,561",21.6
+204,East New York,"49,585",24.3
+205,Sunset Park,"24,717",20.8
+206,Borough Park,"74,370",21.8
+207,East Flatbush - Flatbush,"40,259",13.3
+208,Canarsie - Flatlands,"24,465",11.6
+209,Bensonhurst - Bay Ridge,"30,584",14.4
+210,Coney Island - Sheepshead Bay,"56,090",18.7
+211,Williamsburg - Bushwick,"62,519",27.1
+301,Washington Heights,"49,315",18.4
+302,Central Harlem - Morningside Heights,"42,017",23.9
+303,East Harlem,"35,385",31.9
+304,Upper West Side,"24,913",11.0
+305,Upper East Side,"14,593",6.8
+306,Chelsea - Clinton,"18,805",11.9
+307,Gramercy Park - Murray Hill,"10,692",7.9
+308,Greenwich Village - SoHo,"7,386",9.4
+309,Union Square - Lower East Side,"39,735",22.0
+310,Lower Manhattan,"5,951",9.6
+401,Long Island City - Astoria,"23,169",11.0
+402,West Queens,"57,605",12.5
+403,Flushing - Clearview,"36,683",14.1
+404,Bayside - Little Neck,"7,364",7.8
+405,Ridgewood - Forest Hills,"24,754",9.1
+406,Fresh Meadows,"11,542",11.5
+407,Southwest Queens,"30,446",10.4
+408,Jamaica,"38,955",12.0
+409,Southeast Queens,"20,468",6.2
+410,Rockaways,"23,622",18.0
+501,Port Richmond,"12,098",17.0
+502,Stapleton - St. George,"16,179",13.1
+503,Willowbrook,"8,652",9.3
+504,South Beach - Tottenville,"13,353",6.7
+1,Bronx,"379,954",26.5
+2,Brooklyn,"504,813",18.8
+3,Manhattan,"252,233",15.6
+4,Queens,"270,107",11.4
+5,Staten Island,"50,282",10.3
+1,New York City,"1,457,389",17.0
