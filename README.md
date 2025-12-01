@@ -1,9 +1,7 @@
-Our goal is to explore the relationship between asthma prevalence and mold complaint rates across New York City’s UHF neighborhoods. Specifically, we aim to determine whether areas with higher mold rates also report higher asthma cases and identify common environmental or demographic factors that may influence these trends.
+Our goal is to explore the relationship between asthma prevalence and mold complaint rates across New York City’s NTA-UHF neighborhoods. Specifically, we aim to determine whether areas with higher mold rates also report higher asthma cases and identify common environmental or demographic factors that may influence these trends.
 Research Questions
 
 What is the relationship between mold complaint rates and asthma rates across NYC districts?
-
-Do coastal areas (e.g., Rockaway, Riverside, Long Island City) have higher mold or asthma rates compared to inland districts?
 
 What environmental or demographic factors (air quality, humidity, pollen, income, race, housing conditions) correlate with higher asthma or mold prevalence?
 
@@ -18,7 +16,7 @@ NYC Open Data (311 Service Requests for mold complaints)
 
 NYC Department of Health (Asthma rates by UHF neighborhood)
 
-EPA and NOAA (air quality, humidity, precipitation)
+EPA (air quality)
 
 U.S. Census/ACS (demographic data)
 
