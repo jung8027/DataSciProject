@@ -1,0 +1,35 @@
+year,uhf_code,neighborhood,age_adjusted_asthma_percent,estimated_adults_with_asthma,asthma_percent,statistically_significant
+2020,404406,Bayside Little Neck-Fresh Meadows,11.5,16000.0,11.1,False
+2020,203,Bedford Stuyvesant - Crown Heights,18.5,43000.0,18.1,False
+2020,209,Bensonhurst - Bay Ridge,8.2,14000.0,8.3,True
+2020,206,Borough Park,8.9,21000.0,9.0,False
+2020,208,Canarsie - Flatlands,21.4,31000.0,20.3,False
+2020,302,Central Harlem - Morningside Heights,15.6,19000.0,16.0,False
+2020,306308,Chelsea-Village  ,13.7,26000.0,12.5,False
+2020,210,Coney Island - Sheepshead Bay,9.0,20000.0,8.7,False
+2020,202,Downtown - Heights - Slope,8.3,14000.0,7.7,False
+2020,207,East Flatbush - Flatbush,11.2,24000.0,10.6,False
+2020,303,East Harlem,26.2,21000.0,26.0,False
+2020,204,East New York,23.8,29000.0,21.9,False
+2020,403,Flushing - Clearview,7.4,17000.0,7.9,True
+2020,103,Fordham - Bronx Pk,21.5,41000.0,22.1,False
+2020,201,Greenpoint,8.6,9000.0,8.5,True
+2020,408,Jamaica,10.1,22000.0,10.2,True
+2020,101,Kingsbridge - Riverdale,11.6,8000.0,11.8,False
+2020,401,Long Island City - Astoria,14.5,24000.0,14.6,False
+2020,102,Northeast Bronx,25.0,35000.0,24.7,True
+2020,501502,Northern SI,14.0,20000.0,13.8,False
+2020,104,Pelham - Throgs Neck,19.7,45000.0,20.0,False
+2020,405,Ridgewood - Forest Hills,12.1,24000.0,12.3,False
+2020,410,Rockaways,25.8,20000.0,24.7,True
+2020,105106107,South Bronx,20.7,79000.0,20.6,False
+2020,409,Southeast Queens,15.3,25000.0,16.5,False
+2020,503504,Southern SI,13.3,29000.0,13.1,False
+2020,407,Southwest Queens,10.1,21000.0,10.3,False
+2020,205,Sunset Park,9.8,10000.0,10.1,True
+2020,309310,Union Square-Lower Manhattan,15.3,32000.0,15.4,False
+2020,305307,Upper East Side-Gramercy,11.3,38000.0,12.1,False
+2020,304,Upper West Side,16.2,34000.0,18.2,False
+2020,301,Washington Heights,16.6,33000.0,16.3,False
+2020,402,West Queens,8.7,32000.0,8.5,False
+2020,211,Williamsburg - Bushwick,11.6,17000.0,11.2,False
