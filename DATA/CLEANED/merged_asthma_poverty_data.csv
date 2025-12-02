@@ -1,0 +1,35 @@
+year,uhf_code,neighborhood,age_adjusted_asthma_percent,estimated_adults_with_asthma,age_adjusted_ed_rate_per_10k,estimated_annual_ed_visits,ed_rate_per_10k_age_0_4,estimated_annual_ed_visits_age_0_4,ed_rate_per_10k_age_5_17,estimated_annual_ed_visits_age_5_17,poverty_rate,households_below_poverty,statistically_significant
+2020,404406,Bayside Little Neck-Fresh Meadows,11.5,16000.0,,,,,,,,,False
+2020,203,Bedford Stuyvesant - Crown Heights,18.5,43000.0,90.5,2485.0,94.9,220.0,113.1,578.0,21.6,"75,561",False
+2020,209,Bensonhurst - Bay Ridge,8.2,14000.0,10.0,171.0,14.3,19.0,11.5,36.0,14.4,"30,584",True
+2020,206,Borough Park,8.9,21000.0,10.3,249.0,12.5,41.0,11.2,80.0,21.8,"74,370",False
+2020,208,Canarsie - Flatlands,21.4,31000.0,52.4,850.0,50.4,60.0,50.6,168.0,11.6,"24,465",False
+2020,302,Central Harlem - Morningside Heights,15.6,19000.0,127.1,1915.0,130.9,134.0,139.9,355.0,23.9,"42,017",False
+2020,306308,Chelsea-Village  ,13.7,26000.0,,,,,,,,,False
+2020,210,Coney Island - Sheepshead Bay,9.0,20000.0,22.9,527.0,22.5,40.0,25.8,116.0,18.7,"56,090",False
+2020,202,Downtown - Heights - Slope,8.3,14000.0,35.7,719.0,23.6,48.0,43.4,135.0,13.7,"36,762",False
+2020,207,East Flatbush - Flatbush,11.2,24000.0,57.1,1350.0,64.7,122.0,64.8,291.0,13.3,"40,259",False
+2020,303,East Harlem,26.2,21000.0,148.7,1360.0,136.7,86.0,141.1,238.0,31.9,"35,385",False
+2020,204,East New York,23.8,29000.0,94.2,1424.0,108.6,155.0,112.2,423.0,24.3,"49,585",False
+2020,403,Flushing - Clearview,7.4,17000.0,10.4,204.0,28.7,39.0,18.4,58.0,14.1,"36,683",True
+2020,103,Fordham - Bronx Pk,21.5,41000.0,75.6,1550.0,103.1,208.0,86.4,430.0,27.7,"73,579",False
+2020,201,Greenpoint,8.6,9000.0,25.0,247.0,19.4,23.0,13.1,29.0,17.1,"18,006",True
+2020,408,Jamaica,10.1,22000.0,46.3,1191.0,71.1,140.0,48.1,235.0,12.0,"38,955",True
+2020,101,Kingsbridge - Riverdale,11.6,8000.0,25.4,189.0,48.9,29.0,39.2,49.0,16.2,"14,713",False
+2020,401,Long Island City - Astoria,14.5,24000.0,25.9,434.0,42.5,45.0,33.8,74.0,11.0,"23,169",False
+2020,102,Northeast Bronx,25.0,35000.0,67.0,1039.0,119.4,142.0,75.0,251.0,14.8,"30,694",True
+2020,501502,Northern SI,14.0,20000.0,,,,,,,,,False
+2020,104,Pelham - Throgs Neck,19.7,45000.0,65.6,1554.0,83.9,165.0,68.6,359.0,20.3,"61,654",False
+2020,405,Ridgewood - Forest Hills,12.1,24000.0,18.3,382.0,24.3,40.0,20.1,74.0,9.1,"24,754",False
+2020,410,Rockaways,25.8,20000.0,64.3,625.0,48.1,50.0,44.3,109.0,18.0,"23,622",True
+2020,105106107,South Bronx,20.7,79000.0,,,,,,,,,False
+2020,409,Southeast Queens,15.3,25000.0,26.8,451.0,38.6,44.0,30.6,96.0,6.2,"20,468",False
+2020,503504,Southern SI,13.3,29000.0,,,,,,,,,False
+2020,407,Southwest Queens,10.1,21000.0,26.2,586.0,43.9,78.0,28.2,135.0,10.4,"30,446",False
+2020,205,Sunset Park,9.8,10000.0,26.4,245.0,27.7,26.0,21.7,41.0,20.8,"24,717",True
+2020,309310,Union Square-Lower Manhattan,15.3,32000.0,,,,,,,,,False
+2020,305307,Upper East Side-Gramercy,11.3,38000.0,,,,,,,,,False
+2020,304,Upper West Side,16.2,34000.0,21.2,404.0,21.6,25.0,38.7,87.0,11.0,"24,913",False
+2020,301,Washington Heights,16.6,33000.0,31.4,704.0,75.3,104.0,45.1,154.0,18.4,"49,315",False
+2020,402,West Queens,8.7,32000.0,18.7,698.0,47.4,144.0,37.7,251.0,12.5,"57,605",False
+2020,211,Williamsburg - Bushwick,11.6,17000.0,87.6,1499.0,78.4,129.0,71.9,283.0,27.1,"62,519",False
